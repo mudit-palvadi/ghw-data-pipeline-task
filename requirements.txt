@@ -1,0 +1,8 @@
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+websocket-client>=1.7
+twelvedata>=1.2
+
+# optional — only needed for chart.py (candlestick chart from Tiger Cloud data)
+matplotlib>=3.8
+mplfinance>=0.12
